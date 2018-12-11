@@ -1,5 +1,5 @@
 {
-    "name": "fluidtypo3/builder",
+    "name": "pprossi/builder",
     "description": "The builder package from FluidTYPO3",
     "type": "typo3-cms-extension",
     "version": "1.2.0",
